@@ -12,11 +12,11 @@ def div(a,b):
     return a/b
   else:
     return b/a
-
-print(" 1. add,
-      2. sub,
-      3. multiply,
-      4. divide")
+    
+print("1. Add")
+print("2. Subtract")
+print("3. Multiply")
+print("4. Divide")
 
 choice=input("Enter your choice")
 
